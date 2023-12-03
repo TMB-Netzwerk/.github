@@ -46,7 +46,7 @@ Interested in joining our Minecraft community? Here's how you can get involved:
 
 ## Contact
 
-- **Email:** [info@clan-tmb.de]
+- **Email:** info@clan-tmb.de
 - **Twitter:** [@TMBNetzwerk](https://x.com/_TeamMegaByte_?s=20)
 - **Discord:** [TMB-Netzwerk Discord Server](https://discord.gg/BPwvZeCYx8)
 
