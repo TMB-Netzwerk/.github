@@ -25,25 +25,26 @@ Our Minecraft network features a comprehensive lobby system serving as the prima
 
 ### Lobby Features
 
-- [Feature 1]
-- [Feature 2]
-- ...
+- **Gadgets:** Explore a variety of in-game gadgets to enhance your gaming experience.
+- **Lottery System:** Engage in our lottery system for a chance to win exciting rewards.
+- **Coins System:** Earn coins for your online time and unlock exclusive in-game items.
+- [More Features Coming Soon]
 
 ### TMB-Craft Special Project
 
 Within the network, we have a dedicated Minecraft project called TMB-Craft, exclusively for special members whom we know well or can trust. This project showcases unique builds and creations from our talented community.
+
 ## How to Get Involved
 
 Interested in joining our Minecraft community? Here's how you can get involved:
 
 1. **Explore Our Servers:** Connect to our Minecraft servers and experience the original and customizable gameplay we've crafted.
 
-  - **Gadgets:** Explore a variety of in-game gadgets to enhance your gaming experience.
-  - **Lottery System:** Engage in our lottery system for a chance to win exciting rewards.
-  - **Coins System:** Earn coins for your online time and unlock exclusive in-game items.
-  - [More Features Coming Soon]
+   - Server 1: [clan-tmb.de](https://clan-tmb.de)
+   - Server 2: [Server IP](clan-tmb.de)
+   - ...
 
-2. **Contribute:** We welcome contributions from the community. Check out our [Contribution Guidelines](link-to-contribution-guidelines)[HERE] to get started.
+2. **Contribute:** We welcome contributions from the community. Check out our [Contribution Guidelines](link-to-contribution-guidelines) to get started.
 
 3. **Connect with Us:** Join our community on [Discord](https://discord.gg/BPwvZeCYx8) to chat with other players and stay updated on server news.
 
@@ -59,4 +60,4 @@ If you encounter any issues or have questions, feel free to open a support ticke
 
 ## License
 
-This project is licensed under the [license name]. See the [LICENSE.md](link-to-license)[Here] file for details.
+This project is licensed under the [license name]. See the [LICENSE.md](link-to-license) file for details.
