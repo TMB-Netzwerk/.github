@@ -56,4 +56,4 @@ If you encounter any issues or have questions, feel free to open a support ticke
 
 ## License
 
-This project is licensed under the [license name]. See the [LICENSE.md]([link-to-license](https://github.com/TMB-Netzwerk/.github/blob/main/LICENSE)https://github.com/TMB-Netzwerk/.github/blob/main/LICENSE) file for details.
+This project is licensed under the GNU. See the [LICENSE.md]((https://github.com/TMB-Netzwerk/.github/blob/main/LICENSE)https://github.com/TMB-Netzwerk/.github/blob/main/LICENSE) file for details.
