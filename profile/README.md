@@ -38,15 +38,11 @@ Within the network, we have a dedicated Minecraft project called TMB-Craft, excl
 
 Interested in joining our Minecraft community? Here's how you can get involved:
 
-1. **Explore Our Servers:** Connect to our Minecraft servers and experience the original and customizable gameplay we've crafted.
+1. **Explore Our Server:** Connect to our Minecraft server and experience the original and customizable gameplay we've crafted.
 
    - Server 1: [clan-tmb.de](https://clan-tmb.de)
-   - Server 2: [Server IP](clan-tmb.de)
-   - ...
 
-2. **Contribute:** We welcome contributions from the community. Check out our [Contribution Guidelines](link-to-contribution-guidelines) to get started.
-
-3. **Connect with Us:** Join our community on [Discord](https://discord.gg/BPwvZeCYx8) to chat with other players and stay updated on server news.
+2. **Connect with Us:** Join our community on [Discord](https://discord.gg/BPwvZeCYx8) to chat with other players and stay updated on server news.
 
 ## Contact
 
